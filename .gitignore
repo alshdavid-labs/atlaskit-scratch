@@ -10,6 +10,7 @@ target/
 /release_tag.txt
 /benchmarks
 *.node
+.parcel-cache
 
 packages/mach_npm/cmd
 packages/mach_npm/README.md
